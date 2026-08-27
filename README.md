@@ -99,5 +99,7 @@ If you have the **same IdeaPad Slim 3 15IRU8** and try this, feel free to report
 ---
 
 **Tested:** Lenovo IdeaPad Slim 3 15IRU8
+
 **SREP:** 0.1.4c
+
 **Status:** Working / tested
