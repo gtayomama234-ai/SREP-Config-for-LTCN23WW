@@ -48,7 +48,7 @@ So the unlocked menus aren't just cosmetic — at least some of the settings are
 
 The repository contains:
 
-* `SREP_Config` — the SREP configuration
+* `SREP_Config.cfg` — the SREP configuration
 * `BOOTX64.EFI` — SREP EFI executable
 
 Put the files on your EFI/SREP setup as required by your SREP installation.
